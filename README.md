@@ -1,4 +1,4 @@
-# Repositório organizado por estudos 📘 💻
+# Repositório organizado por estudos 📗 💻
 
 ## HTML e CSS
 
