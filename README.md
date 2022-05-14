@@ -1,4 +1,6 @@
 # Repositório organizado por estudos 📘 💻
+Repositório feito para melhor organização dos meus estudos.
+
 ## HTML e CSS
 
 * [Projeto Catálogo Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
