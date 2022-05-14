@@ -1,5 +1,5 @@
 # Repositório organizado por estudos 📘 💻
-Repositório feito para melhor organização dos meus estudos.
+Repositório feito para melhor organização dos meus estudos. 📗
 
 ## HTML e CSS
 
@@ -9,7 +9,7 @@ Repositório feito para melhor organização dos meus estudos.
 * [Projeto One Page](https://github.com/lucasrenandns/one-page)
 * [Projeto Página de Produto](https://github.com/lucasrenandns/pagina-de-produto)
 * [Projeto Tela de Login](https://github.com/lucasrenandns/tela-de-login)
-* [Projeto Tela de Cadastro](https://github.com/lucasrenandns/tela-de-login)
+* [Projeto Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
 * [Projeto Landing Page](https://github.com/lucasrenandns/landing-page-ambiente-livre)
 * [Projeto Landing Page](https://github.com/lucasrenandns/landing-page-simple)
 * [Projeto Landing Page](https://github.com/lucasrenandns/landing-page-responsive)
