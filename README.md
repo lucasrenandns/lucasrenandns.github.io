@@ -1,5 +1,4 @@
-# Repositório organizado por estudos
-
+# Repositório organizado por estudos 📘 💻
 ## HTML e CSS
 
 * [Projeto Catálogo Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
@@ -15,6 +14,7 @@
 
 ## PROGRAMAÇÃO
 
+* [Gerador de Senha](https://github.com/lucasrenandns/gerador-de-senha)
 * [Estudos JavaScript](https://github.com/lucasrenandns/Estudos-em-JavaScript)
 * [Estudos JavaScript](https://github.com/lucasrenandns/JavaScript)
 * [Estudos Python](https://github.com/lucasrenandns/Python-3)
