@@ -1,4 +1,4 @@
-# Meus repositórios organizados por estudos
+# Repositório organizado por estudo
 
 ## HTML e CSS
 
