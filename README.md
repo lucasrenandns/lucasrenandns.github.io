@@ -4,12 +4,12 @@ Repositório feito para melhor organização dos meus estudos. 📗
 ## HTML e CSS
 
 * [Projeto Catálogo Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
-* [Projeto Flampic](https://github.com/lucasrenandns/flampic)
-* [Projeto Sneakers](https://github.com/lucasrenandns/projeto-sneakers)
-* [Projeto One Page](https://github.com/lucasrenandns/one-page)
-* [Projeto Página de Produto](https://github.com/lucasrenandns/pagina-de-produto)
-* [Projeto Tela de Login](https://github.com/lucasrenandns/tela-de-login)
 * [Projeto Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
+*  [Projeto Sneakers](https://github.com/lucasrenandns/projeto-sneakers)
+*  [Projeto Flampic](https://github.com/lucasrenandns/flampic)
+* [Projeto Página de Produto](https://github.com/lucasrenandns/pagina-de-produto)
+* [Projeto One Page](https://github.com/lucasrenandns/one-page)
+* [Projeto Tela de Login](https://github.com/lucasrenandns/tela-de-login)
 * [Projeto Landing Page](https://github.com/lucasrenandns/landing-page-ambiente-livre)
 * [Projeto Landing Page](https://github.com/lucasrenandns/landing-page-simple)
 * [Projeto Landing Page](https://github.com/lucasrenandns/landing-page-responsive)
