@@ -16,5 +16,5 @@
 ## PROGRAMAÇÃO
 
 * [Estudos JavaScript](https://github.com/lucasrenandns/Python-3)
-* [Estudo JavaScript](https://github.com/lucasrenandns/JavaScript)
+* [Estudos JavaScript](https://github.com/lucasrenandns/JavaScript)
 * [Estudos Python](https://github.com/lucasrenandns/Python-3)
