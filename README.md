@@ -11,7 +11,6 @@
 * [Projeto Página de Produto](https://github.com/lucasrenandns/pagina-de-produto)
 * [Projeto Landing Page - Ambiente Livre](https://github.com/lucasrenandns/landing-page-ambiente-livre)
 * [Projeto Landing Page Simples](https://github.com/lucasrenandns/landing-page-simple)
-* [Projeto Landing Page](https://github.com/lucasrenandns/landing-page-responsive)
 
 ## PROGRAMAÇÃO
 
