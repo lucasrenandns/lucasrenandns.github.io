@@ -3,7 +3,7 @@ Repositório feito para melhor organização dos estudos. 📗
 
 ## HTML e CSS
 
-* [Projeto Catálogo Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
+* [Projeto Catálogo de Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
 * [Projeto Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
 *  [Projeto Sneakers](https://github.com/lucasrenandns/projeto-sneakers)
 *  [Projeto Flampic](https://github.com/lucasrenandns/flampic)
