@@ -1,8 +1,8 @@
 # Repositório feito para melhor organização dos meus estudos.
-### Meus repositórios organizados por estudos 📘 💻
+### *Meus repositórios organizados por estudos* 📘 💻
 
 ## HTML e CSS
-
+*Projetos/Estudos com HTML e CSS*
 * [Projeto Catálogo de Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
 * [Projeto Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
 * [Projeto Sneakers](https://github.com/lucasrenandns/projeto-sneakers)
@@ -14,6 +14,7 @@
 * [Projeto Landing Page Simples](https://github.com/lucasrenandns/landing-page-simple)
 
 ## PROGRAMAÇÃO
+*Estudos com linguagens de programação*
 
 * [Gerador de Senha](https://github.com/lucasrenandns/gerador-de-senha)
 * [Estudos em JavaScript](https://github.com/lucasrenandns/Estudos-em-JavaScript)
