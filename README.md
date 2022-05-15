@@ -1,4 +1,5 @@
-# Repositório organizado por estudos 📗 💻
+# Repositório feito para melhor organização dos meus estudos.
+### Meus repositórios organizados por estudos 📗 💻
 
 ## HTML e CSS
 
