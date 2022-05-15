@@ -2,7 +2,7 @@
 ### *Meus repositórios organizados por estudos* 📘 💻
 
 ## HTML e CSS
-*Projetos/Estudos com HTML e CSS*
+*Estudos/Projetos com HTML e CSS*
 * [Projeto Catálogo de Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
 * [Projeto Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
 * [Projeto Sneakers](https://github.com/lucasrenandns/projeto-sneakers)
