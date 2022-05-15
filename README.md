@@ -15,6 +15,6 @@
 ## PROGRAMAÇÃO
 
 * [Gerador de Senha](https://github.com/lucasrenandns/gerador-de-senha)
-* [Estudos JavaScript](https://github.com/lucasrenandns/Estudos-em-JavaScript)
-* [Estudos JavaScript](https://github.com/lucasrenandns/JavaScript)
-* [Estudos Python](https://github.com/lucasrenandns/Python-3)
+* [Estudos em JavaScript](https://github.com/lucasrenandns/Estudos-em-JavaScript)
+* [Estudo/Curso JavaScript](https://github.com/lucasrenandns/JavaScript)
+* [Estudo/Curso Python](https://github.com/lucasrenandns/Python-3)
