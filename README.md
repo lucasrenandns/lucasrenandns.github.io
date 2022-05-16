@@ -1,4 +1,4 @@
-# Repositório de estudos. 📘 💻
+# Repositório de estudos 📘 💻
 *Meus repositórios organizados por estudos.* 
 
 ## HTML e CSS
