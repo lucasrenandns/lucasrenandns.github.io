@@ -4,16 +4,16 @@
 ## HTML e CSS
 *Projetos nível básico com HTML e CSS.*
 
-* [Projeto Agência Digital](https://github.com/lucasrenandns/projeto-agencia-digital)
-* [Projeto Catálogo de Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
-* [Projeto Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
-* [Projeto Sneakers](https://github.com/lucasrenandns/projeto-sneakers)
-* [Projeto Flampic](https://github.com/lucasrenandns/flampic)
-* [Projeto One Page](https://github.com/lucasrenandns/one-page)
-* [Projeto Tela de Login](https://github.com/lucasrenandns/tela-de-login)
-* [Projeto Página de Produto](https://github.com/lucasrenandns/pagina-de-produto)
-* [Projeto Landing Page - Ambiente Livre](https://github.com/lucasrenandns/landing-page-ambiente-livre)
-* [Projeto Landing Page Simples](https://github.com/lucasrenandns/landing-page-simple)
+* [Agência Digital](https://github.com/lucasrenandns/projeto-agencia-digital)
+* [Catálogo de Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
+* [Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
+* [Sneakers](https://github.com/lucasrenandns/projeto-sneakers)
+* [Flampic](https://github.com/lucasrenandns/flampic)
+* [One Page](https://github.com/lucasrenandns/one-page)
+* [Tela de Login](https://github.com/lucasrenandns/tela-de-login)
+* [Página de Produto](https://github.com/lucasrenandns/pagina-de-produto)
+* [Landing Page - Ambiente Livre](https://github.com/lucasrenandns/landing-page-ambiente-livre)
+* [Landing Page Simples](https://github.com/lucasrenandns/landing-page-simple)
 
 ## PROGRAMAÇÃO
 *Estudos com linguagens de programação.*
