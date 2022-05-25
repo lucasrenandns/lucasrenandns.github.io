@@ -2,7 +2,7 @@
 *Meus repositórios organizados por estudos.* 
 
 ## HTML e CSS
-*Projetos nível básico com HTML e CSS.*
+*Projetos/Estudos nível básico com HTML e CSS.*
 
 * [Agência Digital](https://github.com/lucasrenandns/projeto-agencia-digital)
 * [Catálogo de Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
