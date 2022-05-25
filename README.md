@@ -4,6 +4,8 @@
 ## HTML e CSS
 *Projetos/Estudos nível básico com HTML e CSS.*
 
+
+* [Landing Page - Ambiente Livre](https://github.com/lucasrenandns/landing-page-ambiente-livre)
 * [Agência Digital](https://github.com/lucasrenandns/projeto-agencia-digital)
 * [Catálogo de Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
 * [Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
@@ -11,9 +13,8 @@
 * [Sneakers](https://github.com/lucasrenandns/projeto-sneakers)
 * [Flampic](https://github.com/lucasrenandns/flampic)
 * [Página de Produto](https://github.com/lucasrenandns/pagina-de-produto)
-* [Landing Page - Ambiente Livre](https://github.com/lucasrenandns/landing-page-ambiente-livre)
-* [Landing Page Simples](https://github.com/lucasrenandns/landing-page-simple)
 * [One Page](https://github.com/lucasrenandns/one-page)
+* [Landing Page Simples](https://github.com/lucasrenandns/landing-page-simple)
 
 ## PROGRAMAÇÃO
 *Estudos com linguagens de programação.*
