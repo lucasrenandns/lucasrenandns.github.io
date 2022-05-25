@@ -9,11 +9,11 @@
 * [Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
 * [Sneakers](https://github.com/lucasrenandns/projeto-sneakers)
 * [Flampic](https://github.com/lucasrenandns/flampic)
-* [One Page](https://github.com/lucasrenandns/one-page)
 * [Tela de Login](https://github.com/lucasrenandns/tela-de-login)
 * [Página de Produto](https://github.com/lucasrenandns/pagina-de-produto)
 * [Landing Page - Ambiente Livre](https://github.com/lucasrenandns/landing-page-ambiente-livre)
 * [Landing Page Simples](https://github.com/lucasrenandns/landing-page-simple)
+* [One Page](https://github.com/lucasrenandns/one-page)
 
 ## PROGRAMAÇÃO
 *Estudos com linguagens de programação.*
