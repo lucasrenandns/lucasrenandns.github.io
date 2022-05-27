@@ -17,7 +17,7 @@
 * [Landing Page Simples](https://github.com/lucasrenandns/landing-page-simple)
 
 ## PROGRAMAÇÃO
-*Estudos com linguagens de programação.*
+*Projetos/Estudos com linguagens de programação.*
 
 * [Mini projetos em JavaScript](https://github.com/lucasrenandns/mini-projetos-javascript)
 * [Gerador de Senha](https://github.com/lucasrenandns/gerador-de-senha)
