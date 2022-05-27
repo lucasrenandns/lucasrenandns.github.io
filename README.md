@@ -19,6 +19,7 @@
 ## PROGRAMAÇÃO
 *Estudos com linguagens de programação.*
 
+* [Mini projetos em JavaScript](https://github.com/lucasrenandns/mini-projetos-javascript)
 * [Gerador de Senha](https://github.com/lucasrenandns/gerador-de-senha)
 * [Estudos em JavaScript](https://github.com/lucasrenandns/Estudos-em-JavaScript)
 * [Estudo/Curso JavaScript](https://github.com/lucasrenandns/JavaScript)
