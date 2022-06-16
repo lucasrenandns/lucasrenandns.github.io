@@ -2,7 +2,7 @@
 *Meus repositórios organizados por estudos.* 
 
 ## HTML e CSS
-*Projetos/Estudos nível básico com HTML e CSS.*
+*Projetos/Estudos com HTML e CSS.*
 
 * [Landing Page - Reecontrow](https://github.com/lucasrenandns/landing-page-reecontrow)
 * [Landing Page - InDecor](https://github.com/lucasrenandns/landing-page-indecor)
