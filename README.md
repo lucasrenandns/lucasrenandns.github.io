@@ -21,8 +21,8 @@
 *Projetos/Estudos com linguagens de programação.*
 
 * [Menu Mobile](https://github.com/lucasrenandns/menu-mobile)
-* [Estudos em JavaScript](https://github.com/lucasrenandns/Estudos-em-JavaScript)
 * [Mini projetos em JavaScript](https://github.com/lucasrenandns/mini-projetos-javascript)
 * [Gerador de Senha](https://github.com/lucasrenandns/gerador-de-senha)
+* [Estudos em JavaScript](https://github.com/lucasrenandns/Estudos-em-JavaScript)
 * [Estudo/Curso JavaScript](https://github.com/lucasrenandns/JavaScript)
 * [Estudo/Curso Python](https://github.com/lucasrenandns/Python-3)
