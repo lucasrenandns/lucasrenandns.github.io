@@ -8,6 +8,7 @@
 * [Landing Page - InDecor](https://github.com/lucasrenandns/landing-page-indecor)
 * [Langing Page - Agência Digital](https://github.com/lucasrenandns/projeto-agencia-digital)
 * [Landing Page - Ambiente Livre](https://github.com/lucasrenandns/landing-page-ambiente-livre)
+* [Landing Page - Academia](https://github.com/lucasrenandns/landing-page-academia)
 * [Catálogo de Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
 * [Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
 * [Tela de Login](https://github.com/lucasrenandns/tela-de-login)
