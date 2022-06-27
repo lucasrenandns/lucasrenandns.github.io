@@ -13,9 +13,9 @@
 * [Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
 * [Tela de Login](https://github.com/lucasrenandns/tela-de-login)
 * [Página de Produto - Sneakers](https://github.com/lucasrenandns/projeto-sneakers)
-* [Flampic](https://github.com/lucasrenandns/flampic)
 * [Página de Produto - Puma](https://github.com/lucasrenandns/pagina-de-produto)
 * [One Page](https://github.com/lucasrenandns/one-page)
+* [Flampic](https://github.com/lucasrenandns/flampic)
 * [Landing Page Simples](https://github.com/lucasrenandns/landing-page-simple)
 
 ## PROGRAMAÇÃO
