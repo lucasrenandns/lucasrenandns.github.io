@@ -12,9 +12,9 @@
 * [Catálogo de Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
 * [Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
 * [Tela de Login](https://github.com/lucasrenandns/tela-de-login)
-* [Sneakers](https://github.com/lucasrenandns/projeto-sneakers)
+* [Página de Produto - Sneakers](https://github.com/lucasrenandns/projeto-sneakers)
 * [Flampic](https://github.com/lucasrenandns/flampic)
-* [Página de Produto](https://github.com/lucasrenandns/pagina-de-produto)
+* [Página de Produto - Puma](https://github.com/lucasrenandns/pagina-de-produto)
 * [One Page](https://github.com/lucasrenandns/one-page)
 * [Landing Page Simples](https://github.com/lucasrenandns/landing-page-simple)
 
