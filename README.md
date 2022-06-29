@@ -11,6 +11,7 @@
 * [Landing Page - Academia](https://github.com/lucasrenandns/landing-page-academia)
 * [Catálogo de Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
 * [Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
+* [Tela de Login Simples](https://github.com/lucasrenandns/tela-de-login-simples)
 * [Tela de Login](https://github.com/lucasrenandns/tela-de-login)
 * [Página de Produto - Sneakers](https://github.com/lucasrenandns/projeto-sneakers)
 * [Página de Produto - Puma](https://github.com/lucasrenandns/pagina-de-produto)
