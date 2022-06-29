@@ -4,6 +4,7 @@
 ## HTML e CSS
 *Projetos/Estudos com HTML e CSS.*
 
+* [Landing Page - Services](https://github.com/lucasrenandns/landing-page-services)
 * [Landing Page - Reecontrow](https://github.com/lucasrenandns/landing-page-reecontrow)
 * [Landing Page - InDecor](https://github.com/lucasrenandns/landing-page-indecor)
 * [Langing Page - Agência Digital](https://github.com/lucasrenandns/projeto-agencia-digital)
