@@ -24,6 +24,7 @@
 ## PROGRAMAÇÃO
 *Projetos/Estudos com linguagens de programação.*
 
+* [Relógio Digital](https://github.com/lucasrenandns/Relogio-Digital)
 * [Menu Mobile](https://github.com/lucasrenandns/menu-mobile)
 * [Mini projetos em JavaScript](https://github.com/lucasrenandns/mini-projetos-javascript)
 * [Gerador de Senha](https://github.com/lucasrenandns/gerador-de-senha)
