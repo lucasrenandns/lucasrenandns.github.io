@@ -25,8 +25,9 @@
 *Projetos/Estudos com linguagens de programação.*
 
 * [Relógio Digital](https://github.com/lucasrenandns/Relogio-Digital)
-* [Menu Mobile](https://github.com/lucasrenandns/menu-mobile)
+* [Consulta de CEP](https://github.com/lucasrenandns/consulta-cep)
 * [Mini projetos em JavaScript](https://github.com/lucasrenandns/mini-projetos-javascript)
+* [Menu Mobile](https://github.com/lucasrenandns/menu-mobile)
 * [Gerador de Senha](https://github.com/lucasrenandns/gerador-de-senha)
 * [Estudos em JavaScript](https://github.com/lucasrenandns/Estudos-em-JavaScript)
 * [Estudo/Curso JavaScript](https://github.com/lucasrenandns/JavaScript)
