@@ -4,7 +4,7 @@
 ## HTML e CSS
 *Projetos/Estudos com HTML e CSS.*
 
-*[Slider Games](https://github.com/lucasrenandns/slider-games)
+* [Slider Games](https://github.com/lucasrenandns/slider-games)
 * [One Page](https://github.com/lucasrenandns/one-page-html-css)
 * [Landing Page - Services](https://github.com/lucasrenandns/landing-page-services)
 * [Landing Page - Reecontrow](https://github.com/lucasrenandns/landing-page-reecontrow)
