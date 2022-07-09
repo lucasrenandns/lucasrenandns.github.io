@@ -28,10 +28,11 @@
 *Projetos/Estudos com linguagens de programação.*
 
 * [Relógio Digital](https://github.com/lucasrenandns/Relogio-Digital)
+* [Cronômetro Simples](https://github.com/lucasrenandns/cronometro-simples)
 * [Consulta de CEP](https://github.com/lucasrenandns/consulta-cep)
-* [Mini projetos em JavaScript](https://github.com/lucasrenandns/mini-projetos-javascript)
-* [Menu Mobile](https://github.com/lucasrenandns/menu-mobile)
 * [Gerador de Senha](https://github.com/lucasrenandns/gerador-de-senha)
+* [Menu Mobile](https://github.com/lucasrenandns/menu-mobile)
+* [Mini projetos em JavaScript](https://github.com/lucasrenandns/mini-projetos-javascript)
 * [Estudos em JavaScript](https://github.com/lucasrenandns/Estudos-em-JavaScript)
 * [Estudo/Curso JavaScript](https://github.com/lucasrenandns/JavaScript)
 * [Estudo/Curso Python](https://github.com/lucasrenandns/Python-3)
