@@ -27,10 +27,11 @@
 ## PROGRAMAÇÃO
 *Projetos/Estudos com linguagens de programação.*
 
+* [Slider Animado](https://github.com/lucasrenandns/slider-games-animado)
 * [Relógio Digital](https://github.com/lucasrenandns/Relogio-Digital)
 * [Cronômetro Simples](https://github.com/lucasrenandns/cronometro-simples)
-* [Consulta de CEP](https://github.com/lucasrenandns/consulta-cep)
 * [Gerador de Senha](https://github.com/lucasrenandns/gerador-de-senha)
+* [Consulta de CEP](https://github.com/lucasrenandns/consulta-cep)
 * [Menu Mobile](https://github.com/lucasrenandns/menu-mobile)
 * [Mini projetos em JavaScript](https://github.com/lucasrenandns/mini-projetos-javascript)
 * [Estudos em JavaScript](https://github.com/lucasrenandns/Estudos-em-JavaScript)
