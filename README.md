@@ -27,7 +27,7 @@
 ## PROGRAMAÇÃO
 *Projetos/Estudos com linguagens de programação.*
 
-* [Slider Animado](https://github.com/lucasrenandns/slider-games-animado)
+* [Slider Games Animado](https://github.com/lucasrenandns/slider-games-animado)
 * [Relógio Digital](https://github.com/lucasrenandns/Relogio-Digital)
 * [Cronômetro Simples](https://github.com/lucasrenandns/cronometro-simples)
 * [Gerador de Senha](https://github.com/lucasrenandns/gerador-de-senha)
