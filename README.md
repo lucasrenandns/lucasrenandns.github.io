@@ -12,6 +12,7 @@
 * [Projeto - InDecor](https://github.com/lucasrenandns/landing-page-indecor)
 * [Projeto - Agência Digital](https://github.com/lucasrenandns/projeto-agencia-digital)
 * [Catálogo de Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
+* [Galeria com css grid](https://github.com/lucasrenandns/galeria-css-grid)
 * [Slider Games](https://github.com/lucasrenandns/slider-games)
 * [Slider](https://github.com/lucasrenandns/slider-html-css)
 * [Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
