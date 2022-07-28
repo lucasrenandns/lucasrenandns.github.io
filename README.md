@@ -36,6 +36,7 @@
 * [Cronômetro Simples](https://github.com/lucasrenandns/cronometro-simples)
 * [Gerador de Senha](https://github.com/lucasrenandns/gerador-de-senha)
 * [Show Password](https://github.com/lucasrenandns/show-password)
+* [Efeito Maquina de escrever](https://github.com/lucasrenandns/efeito-maquina-de-escrever)
 * [Consulta de CEP](https://github.com/lucasrenandns/consulta-cep)
 * [Menu Mobile](https://github.com/lucasrenandns/menu-mobile)
 * [Mini projetos em JavaScript](https://github.com/lucasrenandns/mini-projetos-javascript)
